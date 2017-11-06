@@ -14,4 +14,5 @@ The source code is maintained [here](https://github.com/ChilliCream/thor-analyze
 
 | Topic | Description |
 | ----- | ----------- |
-| [Extensibility](https://github.com/ChilliCream/thor-analyzer-docs/blob/1.0/docs/Extensibility.md) | Explains how to add custom rule sets. |
+| [Getting Started](docs/Getting-Started.md) | A quickstart guide |
+| [Extensibility](docs/Extensibility.md) | Explains the entensibility points |
