@@ -1,14 +1,10 @@
-# Thor Analyzer
+# Thor Analyzer 1.0
 
 **The home for *Thor Analyzer* documentation.**
 
 ## Versions
 
-Please choose one of the following versions.
-
-| Version | Latest | License |
-| --- | --- | --- |
-| [**1.0**](https://github.com/ChilliCream/thor-analyzer-docs/tree/1.0) | Yes | MIT |
+Click [here](https://github.com/ChilliCream/thor-analyzer-docs) to get to the version overview.
 
 ## Source Code
 
