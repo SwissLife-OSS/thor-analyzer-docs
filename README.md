@@ -7,8 +7,8 @@
 Please choose one of the following versions.
 
 | Version | Latest | License |
-| --- | --- | --- |
-| [**1.0**](https://github.com/ChilliCream/thor-analyzer-docs/tree/1.0) | Yes | MIT |
+| ------- | :----: | ------- |
+| [**1.0**](https://github.com/ChilliCream/thor-analyzer-docs/tree/1.0) | x | MIT |
 
 ## Source Code
 
