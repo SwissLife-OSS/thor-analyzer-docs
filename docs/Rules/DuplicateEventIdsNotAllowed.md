@@ -11,7 +11,7 @@ This rule breaks when one or more event identifier are reused.
 ### Noncompliant Example
 
 ```csharp
-[EventSource(Name = "NoncompliantEventSource")]
+[EventSource(Name = "Noncompliant")]
 public class NoncompliantEventSource
     : EventSource
 {
@@ -32,7 +32,7 @@ public class NoncompliantEventSource
 ### Compliant Solution
 
 ```csharp
-[EventSource(Name = "CompliantEventSource")]
+[EventSource(Name = "Compliant")]
 public class CompliantEventSource
     : EventSource
 {

@@ -11,7 +11,7 @@ This rule breaks when the event parameter order does not match the `WriteEvent` 
 ### Noncompliant Example
 
 ```csharp
-[EventSource(Name = "NoncompliantEventSource")]
+[EventSource(Name = "Noncompliant")]
 public class NoncompliantEventSource
     : EventSource
 {
@@ -26,7 +26,7 @@ public class NoncompliantEventSource
 ### Compliant Solution
 
 ```csharp
-[EventSource(Name = "CompliantEventSource")]
+[EventSource(Name = "Compliant")]
 public class CompliantEventSource
     : EventSource
 {

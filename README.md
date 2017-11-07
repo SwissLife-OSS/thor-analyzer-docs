@@ -26,3 +26,7 @@ The source code is maintained [here](https://github.com/ChilliCream/thor-analyze
 | [EventMustBeInvokable](docs/Rules/EventMustBeInvokable.md) | R103 | An event must be invokable |
 | [EventMustBeInvokableWithDefaults](docs/Rules/EventMustBeInvokableWithDefaults.md) | R104 | An event must be able to handle default arguments |
 | [EventParametersMustBeInOrder](docs/Rules/EventParametersMustBeInOrder.md) | R105 | Event parameters must be in the right order |
+| [MustBeSealed](docs/Rules/MustBeSealed.md) | R201 | Event parameters must be in the right order |
+| [MustHaveSinglePrivateConstructor](docs/Rules/MustHaveSinglePrivateConstructor.md) | R202 | Event parameters must be in the right order |
+| [MustHaveStaticLogProperty](docs/Rules/MustHaveStaticLogProperty.md) | R203 | Event parameters must be in the right order |
+| [MustHaveValidName](docs/Rules/MustHaveValidName.md) | R204 | Event parameters must be in the right order |
