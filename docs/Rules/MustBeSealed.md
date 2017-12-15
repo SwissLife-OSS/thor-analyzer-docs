@@ -30,4 +30,4 @@ public sealed class CompliantEventSource // Compliant
 
 ## Solution
 
-Make sure the class is protected with sealed.
+Make sure the class is protected with `sealed`.
